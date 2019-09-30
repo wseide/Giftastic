@@ -1,6 +1,5 @@
 # Giftastic
 by Wismy Seide
-Giftastic
 
 This Giftastic was created using Jquery and Javascript
 
