@@ -1,0 +1,46 @@
+body {
+background: url(../images/basketballback.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+font-family: 'Notable', sans-serif;
+color: white;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+header {
+background: url(../images/brickback3.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+margin-bottom: 100px;   
+}
+button{
+color: darkorange;  
+}
+.item {
+display:inline-block;
+padding: 20px;
+}
+input{
+background-color: black;
+color: white;
+}
+p{
+font-family: 'Anton', sans-serif; 
+color: white;
+padding: 2px;
+}
+
+
+
+
+
+
+
